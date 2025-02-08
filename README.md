@@ -4,25 +4,25 @@ The Hospital Emergency Hub Dashboard is an interactive Power BI project designed
 
 ## Requirement gathering 
 ### KPI Requirements 
-• Number of Patients
+• Number of Patients:
 
 1 Major the total number of patients visiting the Emergency hub daily.
 
 2 Display a daily trend using and areas sparkline to understand pattern overtime, such a peak days or seasonal trends.
 
-•Average Wait Time
+•Average Wait Time:
 
 1 Calculate the average time patients wait before attended to buy a medical professional.
 
 2 Use and areas sparkline to show day fluctuations and identify days with higher wait time that may require operational adjustment.
 
-•Patient Satisfaction Score
+•Patient Satisfaction Score:
 
 1 Analyze the average satisfaction score of patients on a daily basis to evaluate the quality of a service provided
 
 2 Present a daily trend using an areas sparkline to identify dips in a satisfaction and correlate them with operational challenges or a peak time.
 
-•Number of Patient Referred
+•Number of Patient Referred:
 
 1 Count the number of patients referred to specific department from the Emergency hub each day.
 
@@ -75,10 +75,27 @@ A grid displaying essential fields:
 
 ### Dashboard 4 (Key Takeaways)
 Descriptive analysis of each metric and visualization, including patterns, anomalies and actionable recommendation to optimize emergency hub operation and patient care.
-![Uploading Hospital Dashboard 4.png…]()
+
+ ![Hospital Dashboard 4](https://github.com/user-attachments/assets/ac3b59f5-1e99-467c-aa6e-9c43ebf5d2ef)
+
 
 ## Business Impact:
+1 Helps hospital administrators optimize staff allocation & improve efficiency.
 
+2 Identifies peak hours & busiest days to manage resources effectively.
+ 
+3 Enhances patient experience by reducing wait times.
+
+4 Supports data-driven decision-making in healthcare management.
+
+## Project File Included:
+Project File Included:
+📂 PBIX File - Power BI dashboard file
+
+📂 Dataset - CSV/Excel file used for analysis
+
+📂 Screenshots - Dashboard previews
 
 ## Conclusion
+The Hospital Emergency Hub Dashboard provides valuable insights into patient admissions, wait times, satisfaction scores, and department referrals. By leveraging Power BI, hospitals can optimize resource allocation, improve patient care, and enhance operational efficiency. This data-driven approach helps hospital administrators make informed decisions, ensuring better healthcare management.
 
